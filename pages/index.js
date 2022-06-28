@@ -101,7 +101,7 @@ export default function Home() {
                       <Link
 
                         color=""
-                        href="https://www.instagram.com/ewuart_doan/"
+                        href=""mailto: someone@example.com""
                       >
                         Gmail
                       </Link>
