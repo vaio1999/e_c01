@@ -63,8 +63,8 @@ export default function Home() {
                     chữ nhỏ nhắn, mốc mạc. Đem đến cho mọi người nhiều khia cạnh
                     khác nhau trong cuộc sống.Mong rằng sau này ... Dù mọi người
                     có đi xa đến đâu, khi ngoảnh lại vẫn sẽ thấy. Bàn ghế, chai
-                    lọ, những chiếc ly, khăn trải bàn sờn chỉ. Hôm nay, quán lại
-                    mở cửa, tôi có rượu rồi, bạn có chuyện chưa ?
+                    lọ, những chiếc ly, khăn trải bàn sờn chỉ. Hôm nay, quán vẫn
+                    còn bàn, tôi có rượu rồi, bạn có chuyện chưa ?
                   </Text>
                 </Card.Body>
               </Row>
