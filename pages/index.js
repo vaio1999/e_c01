@@ -113,7 +113,7 @@ export default function Home() {
                     <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAB2UlEQVRIS7WVDVEDMRCFWwfgoDgABYADcFAUAAooCsABdQAOOBQACqgDcADv6+zr7KUJdzDTzOykuSTvZzdJp5Mdt+mO8Sf/JfiQsDfFe/RPLaE1gj0tflDQnyu+Kpu/i29Lja9ra0sCg58FACpPKxtn+nYYcRliEIKgLpNnggwOMA2QFolx2HenmIeQI/UrT2aChT7eBKBT89wgcQ1eNH8fYI/qcY4DXK9bJmDTTIECO0BdJmGOlmvAWr6z9jUwELgufCZgkpSUBBS8VIYQ1vowUGCcXClI161iURKg9ESBvS6UAjBXoBJVq/juDmJSYxceo571PQcwo8BqmLerjeWCgLR8KjhB+4py3CMwuxeDZVIrLPCHh+U9QA0qDiIdVgRSy8WvLCXBQqs5qpscJhfkn+ItA9H3hr5147feonzUcrFdC7C7qBNCSCuNFNZufPWxm2sxp4dasMl3wvXIKfEcR7ZK0npNfStJCyT0NIBQzfsD4EUIad345nNNqrwJJ1uPWLah33l978QN/R/YCXgUnjtiN5nDBcddF67X80MErOHykX83AHjk6CHDoZ8T1Pdu/BgCA9eKnF1sgY91kEH4TRqOFRR8piA9LjiOeu0vDsq9o8Y7J/gBVdCAGQWbZcIAAAAASUVORK5CYII="/>
                       <Link
                         color=""
-                       href="tel:0898982526" title="Gọi 0898982526" onclick="_gaq.push(['_trackEvent', 'Contact', 'Call Now Button', 'Phone']);" id="floating-phone"
+                       href="tel:0345920543" title="Gọi 0345920543" onclick="_gaq.push(['_trackEvent', 'Contact', 'Call Now Button', 'Phone']);" id="floating-phone"
                       >
                       Tel         
                       </Link>
