@@ -49,7 +49,7 @@ export default function Home() {
                   </Grid>
                   <Grid xs={12}>
                     <Link href="https://www.ewuart.tk">
-                    <Text css={{ color: "$accents8" }}>ewuart.tk</Text>
+                    <Text css={{ color: "$accents8" }}>ewuart.cf</Text>
                     </Link>
                   </Grid>
                   <Spacer y={2} />
